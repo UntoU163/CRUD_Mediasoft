@@ -1,2 +1,2 @@
 # CRUD_Mediasoft
-Creating CRUD service (Test task for Mediasoft)
+Creating CRUD service (test task for Mediasoft)
